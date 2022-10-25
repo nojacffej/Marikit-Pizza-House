@@ -1,0 +1,80 @@
+		body{
+			background: #c24646;
+			margin: 0;
+			padding: 0;
+			}
+		}
+		ul{
+			padding: 0;
+			list-style: 0;
+			margin: 0 0 0 150px;
+		}
+		nav{
+			width: 100%;
+			background: #a82525;
+			overflow: auto;
+			border-style: none none solid none;
+			border-color: #ecbcb4;
+			border-width: 7px;
+		}
+		li{
+			float: left;
+			padding: 0;
+			margin: 0;
+			list-style: none;
+		}
+		img#Logo{
+			position: absolute;
+			margin-bottom: 0px;
+			margin-top: -24px;
+			left: 710px;
+			width: 11%;
+		}
+		nav a{
+			width: 100px;
+			display: inline-block;
+			padding: 22px 10px;
+			text-decoration: none;
+			font-family: monospace;
+			color: #292222;
+			text-align: center;
+			font-size: 16px;
+			position: relative;
+			top: -5px;
+			left: -10px;
+		}
+		nav a:hover{
+			color: white;
+			background-color: #8db588;
+			border-radius: 10px;
+		}
+		.Information{
+			padding: 0; 
+			margin: 0;
+			position: absolute;
+			margin-left: 1300px;
+		}
+		.Information li{
+			position: relative;
+			left: 20px;
+		}
+		.Main{
+			position: relative;
+			margin-left: -20px;
+			padding: 0px;
+		}
+		.Main li{
+			padding: 0 60px;
+		}
+		.footer {
+			position: absolute;
+			left: 0;
+			bottom: 0px;
+			width: 100%;
+			background-color: #e87e76;
+			color: white;
+			margin: 0;
+			padding: 30px 0 0 0;
+			border-style: solid none none none;
+			border-color: #cf7e6d;
+		}
